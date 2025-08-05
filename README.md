@@ -2,6 +2,8 @@
 
 This guide will walk you through configuring OAuth user-to-machine (U2M) authentication with Azure Databricks and DBeaver Community Edition, enabling automatic browser-based authentication through Microsoft Entra ID.
 
+https://github.com/user-attachments/assets/3518628e-7950-4caa-bbf7-7c1cea804c97
+
 ## Prerequisites
 
 Before starting, ensure you have:
